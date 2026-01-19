@@ -1,0 +1,8 @@
+﻿bin/
+obj/
+.vs/
+Logs/
+*.user
+*.suo
+*.db
+appsettings.Development.json
